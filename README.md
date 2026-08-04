@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
