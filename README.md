@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0038-count-and-say) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
