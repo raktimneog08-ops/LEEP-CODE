@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
