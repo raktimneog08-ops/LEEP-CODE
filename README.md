@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0076-minimum-window-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
