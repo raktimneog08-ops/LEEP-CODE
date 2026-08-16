@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0175-combine-two-tables) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
