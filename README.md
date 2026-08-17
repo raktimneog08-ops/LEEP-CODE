@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0115-distinct-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
