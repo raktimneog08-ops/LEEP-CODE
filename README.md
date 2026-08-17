@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0060-permutation-sequence) |
+| [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0053-maximum-subarray) |
+| [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
