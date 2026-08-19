@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -297,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
