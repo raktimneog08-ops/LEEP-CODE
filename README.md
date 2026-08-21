@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
