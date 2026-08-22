@@ -380,15 +380,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0102-binary-tree-level-order-traversal) |
 ## Memoization
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
 ## Graph Theory
 |  |
