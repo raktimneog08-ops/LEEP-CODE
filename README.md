@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -422,11 +425,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
 |  |
 | ------- |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Rolling Hash
 |  |
 | ------- |
