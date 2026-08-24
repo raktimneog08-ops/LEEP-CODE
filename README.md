@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
