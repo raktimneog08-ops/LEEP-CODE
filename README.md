@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
@@ -479,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
