@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
