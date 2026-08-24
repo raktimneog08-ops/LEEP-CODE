@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
