@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -446,11 +449,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0102-binary-tree-level-order-traversal) |
