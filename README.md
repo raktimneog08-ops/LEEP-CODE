@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 ## Sorting
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 ## Geometry
 |  |
@@ -534,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0056-merge-intervals) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
