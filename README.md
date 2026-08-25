@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
