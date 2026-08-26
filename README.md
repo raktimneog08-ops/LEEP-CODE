@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0085-maximal-rectangle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0115-distinct-subsequences) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0095-unique-binary-search-trees-ii) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0174-dungeon-game) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0130-surrounded-regions) |
