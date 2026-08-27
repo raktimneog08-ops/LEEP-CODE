@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
