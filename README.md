@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
 ## Math
@@ -614,4 +616,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
