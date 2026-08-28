@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0185-department-top-three-salaries) |
 ## Range Minimum/Maximum Query
 |  |
