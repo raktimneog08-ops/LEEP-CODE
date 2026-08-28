@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
 ## Bidirectional Search
 |  |
 | ------- |
