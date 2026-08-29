@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Merge Sort
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
 |  |
 | ------- |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0284-peeking-iterator) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -721,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
+## Shortest Path
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
