@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
