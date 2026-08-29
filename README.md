@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
 | [0284-peeking-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
+| [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
+| [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -714,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
