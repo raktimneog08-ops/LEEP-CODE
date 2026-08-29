@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
+| [0299-bulls-and-cows](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0299-bulls-and-cows) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0214-shortest-palindrome) |
+| [0299-bulls-and-cows](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0299-bulls-and-cows) |
 | [2029-stone-game-ix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
