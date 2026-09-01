@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
