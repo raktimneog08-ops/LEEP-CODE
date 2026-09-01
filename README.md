@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
+| [2069-walking-robot-simulation-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2069-walking-robot-simulation-ii) |
 ## Database
 |  |
 | ------- |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0284-peeking-iterator) |
+| [2069-walking-robot-simulation-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2069-walking-robot-simulation-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Doubly-Linked List
 |  |
