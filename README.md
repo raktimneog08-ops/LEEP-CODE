@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0148-sort-list) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
 | [2069-walking-robot-simulation-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
