@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
 | [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
+| [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
+| [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
