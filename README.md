@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
+| [1840-maximum-building-height](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
+| [1840-maximum-building-height](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1331-rank-transform-of-an-array) |
+| [1840-maximum-building-height](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1840-maximum-building-height) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
