@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
