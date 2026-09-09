@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
