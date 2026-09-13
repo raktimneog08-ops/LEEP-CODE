@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0197-rising-temperature) |
 | [1393-capital-gainloss](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1393-capital-gainloss) |
 ## Range Minimum/Maximum Query
 |  |
