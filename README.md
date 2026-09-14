@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2615-sum-of-distances) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
 | [2615-sum-of-distances](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2615-sum-of-distances) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
