@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
 | [0284-peeking-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 | [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0220-contains-duplicate-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
