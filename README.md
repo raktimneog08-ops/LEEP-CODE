@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0836-rectangle-overlap) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0343-integer-break) |
 | [0940-distinct-subsequences-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
