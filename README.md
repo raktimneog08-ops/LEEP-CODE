@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0264-ugly-number-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bidirectional Search
 |  |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -880,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
