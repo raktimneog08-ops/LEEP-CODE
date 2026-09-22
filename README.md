@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0796-rotate-string) |
 ## Manacher
 |  |
 | ------- |
