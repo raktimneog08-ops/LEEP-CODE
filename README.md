@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1386-cinema-seat-allocation) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1563-stone-game-v) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0301-remove-invalid-parentheses) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bidirectional Search
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0337-house-robber-iii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0200-number-of-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
 ## Quicksort
 |  |
