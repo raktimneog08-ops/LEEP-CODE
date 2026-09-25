@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3524-find-x-value-of-array-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2573-find-the-string-with-lcp) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Algorithm X
 |  |
 | ------- |
