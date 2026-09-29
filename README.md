@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -507,11 +508,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0232-implement-queue-using-stacks) |
 | [1096-brace-expansion-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
