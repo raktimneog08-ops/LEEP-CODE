@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0189-rotate-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/1260-shift-2d-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/2069-walking-robot-simulation-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raktimneog08-ops/LEEP-CODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
